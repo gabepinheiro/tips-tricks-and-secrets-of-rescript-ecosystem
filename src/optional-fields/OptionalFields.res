@@ -11,10 +11,10 @@ type personWithPropsOptional = {
   another: option<string>,
 }
 
-let person = {
-  name: "Eren",
-  age: 20,
-}
+/* let person = { */
+/* name: "Eren", */
+/* age: 20, */
+/* } */
 
 let personWithPropsOptional = {
   name: "Eren",
